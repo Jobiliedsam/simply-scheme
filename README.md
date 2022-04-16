@@ -22,3 +22,8 @@ Criar/Editar o arquivo de inicialização do mit-scheme *.scheme.init* no diret�
 ```
 
 Os arquviso dos programas estão contidos na pasta *book_files*.
+
+## Links
+
+- [Livro Original](https://people.eecs.berkeley.edu/~bh/ss-toc2.html)
+- [Programas Originais](https://people.eecs.berkeley.edu/~bh/downloads/simply/)
